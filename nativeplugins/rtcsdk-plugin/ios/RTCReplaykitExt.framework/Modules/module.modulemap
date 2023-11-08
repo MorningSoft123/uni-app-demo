@@ -1,6 +1,0 @@
-framework module RTCReplaykitExt {
-  umbrella header "RTCReplaykitExt.h"
-
-  export *
-  module * { export * }
-}
